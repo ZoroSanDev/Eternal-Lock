@@ -1,16 +1,82 @@
-ExpiredCodeTest = {ExpirationDate = DateTime.fromUniversalTime(2024, 5, 21, 12, 0, 0, 0), Reward = 50, RewardType = "Money"};
-Code1 = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 21, 12, 0, 0, 0), Reward = 50, RewardType = "Money"};
-FreeSpins = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 21, 12, 0, 0, 0), Reward = 10, RewardType = "Spins"};
-IOWNARCAS = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 21, 12, 0, 0, 0), Reward = 0, RewardType = "Spins"};
-GAMEISBACKUP = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 13, 12, 0, 0, 0), Reward = 15, RewardType = "Spins"};
-ZOROTHEGOAT = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 13, 12, 0, 0, 0), Reward = 20, RewardType = "Spins"};
-ETERNALLOCKONTOP = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 13, 12, 0, 0, 0), Reward = 10, RewardType = "Spins"};
-SORRYFORDELAYRELEASE = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 13, 12, 0, 0, 0), Reward = 15, RewardType = "Spins"};
-EZNERF = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 13, 12, 0, 0, 0), Reward = 15, RewardType = "Spins"};
-GGSGODSPEED = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 13, 12, 0, 0, 0), Reward = 20, RewardType = "Spins"};
-NOMOREWEPCARRY = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 13, 12, 0, 0, 0), Reward = 10, RewardType = "Spins"};
-EIDMUBARAK = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 13, 12, 0, 0, 0), Reward = 25, RewardType = "Spins"};
-IMSORRYCHAT = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 13, 12, 0, 0, 0), Reward = 30, RewardType = "Spins"};
-GIVEMESPINS = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 30, 12, 0, 0, 0), Reward = 100, RewardType = "Spins"};
-SorryForShutdown = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 30, 12, 0, 0, 0), Reward = 10, RewardType = "Spins"};
-ALMOSTWAVE1 = {ExpirationDate = DateTime.fromUniversalTime(2024, 6, 30, 12, 0, 0, 0), Reward = 25, RewardType = "Spins"};
+{
+    "ExpiredCodeTest": {
+        "ExpirationDate": "2024-05-21T12:00:00Z",
+        "Reward": 50,
+        "RewardType": "Money"
+    },
+    "Code1": {
+        "ExpirationDate": "2024-06-21T12:00:00Z",
+        "Reward": 50,
+        "RewardType": "Money"
+    },
+    "FreeSpins": {
+        "ExpirationDate": "2024-06-21T12:00:00Z",
+        "Reward": 10,
+        "RewardType": "Spins"
+    },
+    "IOWNARCAS": {
+        "ExpirationDate": "2024-06-21T12:00:00Z",
+        "Reward": 0,
+        "RewardType": "Spins"
+    },
+    "GAMEISBACKUP": {
+        "ExpirationDate": "2024-06-13T12:00:00Z",
+        "Reward": 15,
+        "RewardType": "Spins"
+    },
+    "ZOROTHEGOAT": {
+        "ExpirationDate": "2024-06-13T12:00:00Z",
+        "Reward": 20,
+        "RewardType": "Spins"
+    },
+    "ETERNALLOCKONTOP": {
+        "ExpirationDate": "2024-06-13T12:00:00Z",
+        "Reward": 10,
+        "RewardType": "Spins"
+    },
+    "SORRYFORDELAYRELEASE": {
+        "ExpirationDate": "2024-06-13T12:00:00Z",
+        "Reward": 15,
+        "RewardType": "Spins"
+    },
+    "EZNERF": {
+        "ExpirationDate": "2024-06-13T12:00:00Z",
+        "Reward": 15,
+        "RewardType": "Spins"
+    },
+    "GGSGODSPEED": {
+        "ExpirationDate": "2024-06-13T12:00:00Z",
+        "Reward": 20,
+        "RewardType": "Spins"
+    },
+    "NOMOREWEPCARRY": {
+        "ExpirationDate": "2024-06-13T12:00:00Z",
+        "Reward": 10,
+        "RewardType": "Spins"
+    },
+    "EIDMUBARAK": {
+        "ExpirationDate": "2024-06-13T12:00:00Z",
+        "Reward": 25,
+        "RewardType": "Spins"
+    },
+    "IMSORRYCHAT": {
+        "ExpirationDate": "2024-06-13T12:00:00Z",
+        "Reward": 30,
+        "RewardType": "Spins"
+    },
+    "GIVEMESPINS": {
+        "ExpirationDate": "2024-06-30T12:00:00Z",
+        "Reward": 100,
+        "RewardType": "Spins"
+    },
+    "SorryForShutdown": {
+        "ExpirationDate": "2024-06-30T12:00:00Z",
+        "Reward": 10,
+        "RewardType": "Spins"
+    },
+    "ALMOSTWAVE1": {
+        "ExpirationDate": "2024-06-30T12:00:00Z",
+        "Reward": 25,
+        "RewardType": "Spins"
+    }
+}
